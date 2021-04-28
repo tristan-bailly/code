@@ -55,7 +55,7 @@ a:hover {
 	border-radius: 50%;
 }
 .btn-blue {
-	background-color: rgba(34, 49, 63, 1);
+	background-color:rgba(34, 49, 63, 1);
 	color: white;
 	padding: 15px 20px;
 }
@@ -76,7 +76,7 @@ a:hover {
 .list-inline i {
 	font-size: 30px;
 	color: rgba(228, 241, 254, 1);
-	background-color: rgba(127, 166, 229, 1);
+	background-color: rgba(228, 241, 254, 1);
 	padding: 10px 15px;
 	border-radius: 7px;
 }
