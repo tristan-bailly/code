@@ -75,8 +75,8 @@ a:hover {
 
 .list-inline i {
 	font-size: 30px;
-	color: rgba(242, 38, 19, 1);
-	background-color: rgba(242, 38, 19, 1);
+	color: rgba(25, 41, 224, 1);
+    background-color: rgba(27, 21, 20, 1);
 	padding: 10px 15px;
 	border-radius: 7px;
 }
