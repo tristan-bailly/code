@@ -15,7 +15,7 @@ font-family: 'Cantora One', sans-serif;
 h1 {
 	color: dark;
 	font-size: 32px;
-	font-weight: 900;
+	font-weight: 900;Ò
 }
 
 h2  {
@@ -60,7 +60,7 @@ a:hover {
 	padding: 15px 20px;
 }
 .btn-blue:hover {
-	background-color: rgba(34, 49, 63, 1);
+	background-color: rgba(58, 83, 155, 1);
 	color: white;
 }
  
@@ -75,15 +75,15 @@ a:hover {
 
 .list-inline i {
 	font-size: 30px;
-	color:rgba(228, 241, 254, 1);
+	color: rgba(228, 241, 254, 1);
 	background-color: rgba(127, 166, 229, 1);
 	padding: 10px 15px;
 	border-radius: 7px;
 }
 
 .list-inline i:hover {
-	color:rgba(231, 76, 60, 1);
-	background-color: rgba(63, 102, 165, 1)
+	color: rgba(63, 102, 165);
+	background-color: rgba(228, 241, 254, 1) ;
 
 /* Design adjustments using id (1% design remaining) */
 #introduction p {
