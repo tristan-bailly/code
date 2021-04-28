@@ -60,7 +60,7 @@ a:hover {
 	padding: 15px 20px;
 }
 .btn-blue:hover {
-	background-color: black;
+	background-color: rgba(34, 49, 63, 1);
 	color: white;
 }
  
@@ -82,7 +82,7 @@ a:hover {
 }
 
 .list-inline i:hover {
-	color:rgba(32, 33, 36, 1);
+	color:rgba(231, 76, 60, 1);
 	background-color: rgba(63, 102, 165, 1)
 
 /* Design adjustments using id (1% design remaining) */
