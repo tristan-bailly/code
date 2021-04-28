@@ -10,7 +10,7 @@ font-weight: lighter;
 }
 
 h1, h2, h3 {
-font-family: 'Roboto', sans-serif;
+font-family: 'Cantora One', sans-serif;
 }
 h1 {
 	color: dark;
@@ -55,7 +55,7 @@ a:hover {
 	border-radius: 50%;
 }
 .btn-blue {
-	background-color: #8fd6e1;
+	background-color: rgba(34, 49, 63, 1);
 	color: white;
 	padding: 15px 20px;
 }
